@@ -1,3 +1,4 @@
+## NLP-EMOTION-CLASSIFICATION-IN-ARABIC-TWEETS
 This project focuses on classifying emotions in Arabic tweets
 using various machine learning and deep learning approaches. The
 dataset contains tweets labeled with 8 emotion categories: anger,
